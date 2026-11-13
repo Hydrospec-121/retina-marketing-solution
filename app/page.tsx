@@ -3,7 +3,7 @@ import Link from "next/link";
 const highlights = [
   { number: "01", title: "Medicine catalogue", text: "A clear, searchable catalogue for the products Retina supplies." },
   { number: "02", title: "Order management", text: "A central place for the team to review and process incoming orders." },
-  { number: "03", title: "Stock visibility", text: "A foundation for batch-level inventory and expiry tracking." },
+  { number: "03", title: "Stock visibility", text: "Clear medicine-wise stock totals and low-stock alerts." },
 ];
 
 export default function Home() {
